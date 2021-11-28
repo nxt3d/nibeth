@@ -1,0 +1,9 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+secrets.json
+.prettierrc
+
+# Dependency directories
+node_modules/

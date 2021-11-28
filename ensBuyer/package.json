@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ensdomains/ui": "^3.3.4",
+    "ethers": "^5.4.6"
+  },
+  "type": "module"
+}
