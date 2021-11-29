@@ -417,8 +417,8 @@ export class Dapp extends React.Component {
       {
         value: priceInt,
         gasLimit: 230000,
-        maxFeePerGas: gasPrice * 2,
-        maxPriorityFeePerGas: gasPrice,
+        // maxFeePerGas: gasPrice * 2,
+        // maxPriorityFeePerGas: gasPrice,
       }
     );
     return registeration;
